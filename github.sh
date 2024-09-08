@@ -13,4 +13,4 @@
 # @raycast.author Max Hager
 # @raycast.authorURL https://twitter.com/MaxHager66
 
-open -a Safari "https://www.github.com/yachty66"
+open -a Safari "https://www.github.com/yachty66?tab=repositories"
