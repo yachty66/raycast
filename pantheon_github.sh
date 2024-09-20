@@ -12,4 +12,4 @@
 # @raycast.author Max Hager
 # @raycast.authorURL https://twitter.com/MaxHager66
 
-open -a Safari "https://github.com/orgs/arXivGPT/repositories"
+open -a Safari "https://github.com/orgs/Pantheon-Industries/repositories"
